@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  JOAuthViewController.h
 //  myWeibo
 //
 //  Created by zhangjie520 on 3/10/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface JOAuthViewController : UIViewController
 
 @end
-
